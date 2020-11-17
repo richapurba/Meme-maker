@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(231, 224, 214);
+    display: block;
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+a {
+    color: rgb(16, 201, 130);
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(51, 48, 48);
+}
+
+
+
+
+/*footer section ✍ */
+.end {
+    text-align: center;
+}
+.unstyled {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.social {
+    color: rgb(34, 32, 32);
+    font-size: 22px;
+    margin: 0 20px;    
+}
